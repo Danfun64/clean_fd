@@ -1,0 +1,100 @@
+===========================================================================
+Archive Maintainer      : delete clnfd1B+.zip and clnfd1B+.txt, as they
+                          refer to older versions of the file.
+Primary purpose         : No levels included
+===========================================================================
+Title                   : Freedoom Clean 1.1C+
+Filename                : clean-fd.wad
+Release date            : 4/14/13
+Author                  : Danfun64
+Email Address           : Danfun360@gmail.com
+
+Description             : This is meant to remove blood, gore, and demonic
+                          imagery from Freedoom. This was made so that a
+                          fairly-clean Free Software single player fps can
+                          be used. If you aren't a Free Software user, use
+                          Chex Quest instead.
+                          
+                          I give permission for this file to be included or
+                          bundled in/with freedoom and license it under the
+                          3-clause BSD license. The modified levels also use
+						  the FreeDoom varient of said license.
+						  
+						  In order to avoid mixing resources, Ultimate Freedoom
+						  and Freedoom content have been split. In addition,
+						  pentagrams on the levels themselves have been
+						  removed. Note that those levels will no longer
+						  be compatible with demos recorded for them from
+						  the original game.
+						  
+						  NOTE FOR THOSE USING 1.1A, delete mbfcomp.deh, as
+						  it's contents have been included in this patch
+						  
+						  NOTE: The new enemies have been recentered.
+						  
+						  NOTE: I decided to make a brand new release
+						  which contains every change I have made thus far,
+						  which should fix a few bugs. Sorry for not releasing
+						  this sooner.
+
+Additional Credits to   : Linguica, for the basic idea for the dehacked
+                          file.
+                          TimeOfDeath, for the actual dehacked file used.
+                          The Freedoom developers for making freedoom and
+                          allowing it's resources to be used.
+                          Simon Judd (SlayeR), for creating SLADE.
+						  dotPDN LLC, for Paint.NET
+						  
+===========================================================================
+* What is included *
+
+New levels              : Four modified levels
+Sounds                  : No
+Music                   : No
+Graphics                : Yes
+Dehacked/BEX Patch      : Yes
+Demos                   : No
+Other                   : No
+Other files required    : Freedoom (any version)
+
+
+* Play Information *
+
+Game                    : Doom 2
+Single Player           : Designed for
+Cooperative 2-4 Player  : Designed for
+Deathmatch 2-4 Player   : Designed for
+Other game styles       : None
+Difficulty Settings     : Not implemented
+
+
+* Construction *
+
+Base                    : Modified
+Build Time              : Several Hours (to make the resources)
+Editor(s) used          : SLADE3, Paint.NET
+Known Bugs              : The replaced sprite for the "orb monster" may
+                          occasionally flicker to the original sprite. I'm
+                          not sure if the "globe fiend" has this same
+                          problem.
+						  I am having trouble removing the inverted
+						  cross on E2M1.
+May Not Run With...     : an IWAD made by ID software.
+
+
+* Copyright / Permissions *
+
+Authors MAY use the contents of this file as a base for modification or
+reuse.  Permissions have been obtained from original authors for any of
+their resources modified or included in this file.
+
+You MAY distribute this file, provided you include this text file, with no
+modifications.  You may distribute this file in any electronic format (BBS,
+Diskette, CD, etc) as long as you include this file intact.  I have
+received permission from the original authors of any modified or included
+content in this file to allow further distribution.
+
+* Where to get the file that this text file describes *
+
+The Usual: ftp://archives.3dgamers.com/pub/idgames/ and mirrors
+Web sites: Mediafire
