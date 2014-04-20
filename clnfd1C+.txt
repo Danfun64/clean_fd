@@ -3,9 +3,9 @@ Archive Maintainer      : delete clnfd1B+.zip and clnfd1B+.txt, as they
                           refer to older versions of the file.
 Primary purpose         : No levels included
 ===========================================================================
-Title                   : Freedoom Clean 1.1C+
+Title                   : Freedoom Clean 1.2
 Filename                : clean-fd.wad
-Release date            : 4/14/13
+Release date            : 4/20/14
 Author                  : Danfun64
 Email Address           : Danfun360@gmail.com
 
@@ -36,6 +36,10 @@ Description             : This is meant to remove blood, gore, and demonic
 						  which contains every change I have made thus far,
 						  which should fix a few bugs. Sorry for not releasing
 						  this sooner.
+						  
+						  NOTE: The new enemies have been removed, they just
+						  don't mix with the regular game. They have also been
+						  causing problems...
 
 Additional Credits to   : Linguica, for the basic idea for the dehacked
                           file.
@@ -73,12 +77,8 @@ Difficulty Settings     : Not implemented
 Base                    : Modified
 Build Time              : Several Hours (to make the resources)
 Editor(s) used          : SLADE3, Paint.NET
-Known Bugs              : The replaced sprite for the "orb monster" may
-                          occasionally flicker to the original sprite. I'm
-                          not sure if the "globe fiend" has this same
-                          problem.
-						  I am having trouble removing the inverted
-						  cross on E2M1.
+Known Bugs              : I am having trouble removing the inverted
+			  cross on E2M1.
 May Not Run With...     : an IWAD made by ID software.
 
 

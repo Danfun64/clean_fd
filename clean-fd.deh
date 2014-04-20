@@ -1,0 +1,523 @@
+Patch File for DeHackEd v3.0
+# Created with WhackEd2 0.60 build 214
+
+# General version information
+Doom version = 21
+Patch format = 6
+
+Thing 1 (Player)
+Bits = 34081798
+
+Thing 2 (Trooper)
+Death frame = 281
+Exploding frame = 0
+Bits = 4718598
+
+Thing 3 (Sargeant)
+Death frame = 281
+Exploding frame = 0
+Bits = 4718598
+
+Thing 4 (Archvile)
+Death frame = 281
+Bits = 4718598
+
+Thing 6 (Revenant)
+Death frame = 281
+Bits = 4718598
+
+Thing 9 (Mancubus)
+Death frame = 281
+Bits = 4718598
+
+Thing 11 (Chaingun Sargeant)
+Death frame = 281
+Exploding frame = 0
+Bits = 4718598
+
+Thing 12 (Imp)
+Death frame = 281
+Exploding frame = 0
+Bits = 4718598
+
+Thing 13 (Demon)
+Death frame = 281
+Bits = 4718598
+
+Thing 14 (Spectre)
+Death frame = 281
+Bits = 4980742
+
+Thing 15 (Cacodemon)
+Death frame = 281
+Bits = 4735494
+
+Thing 16 (Baron of Hell)
+Death frame = 281
+Bits = 4718598
+
+Thing 18 (Hell Knight)
+Death frame = 281
+Bits = 4718598
+
+Thing 19 (Lost Soul)
+Bits = 541190
+
+Thing 20 (Spiderdemon)
+Death frame = 281
+Bits = 4718598
+
+Thing 21 (Arachnotron)
+Death frame = 281
+Bits = 4718598
+
+Thing 22 (Cyberdemon)
+Death frame = 281
+Bits = 4718598
+
+Thing 23 (Pain Elemental)
+Bits = 4735494
+
+Thing 24 (SS Nazi)
+Death frame = 281
+Exploding frame = 0
+Bits = 4718598
+
+Thing 25 (Commander Keen)
+Bits = 4719366
+
+Thing 26 (Big Brain)
+Bits = 524294
+
+Thing 39 (Blood Splat)
+Initial frame = 946
+
+Thing 102 (Swaying Body)
+Initial frame = 946
+
+Thing 103 (Hanging Arms Out)
+Initial frame = 946
+
+Thing 104 (One-legged Body)
+Initial frame = 946
+
+Thing 105 (Hanging Torso)
+Initial frame = 946
+
+Thing 106 (Hanging Leg)
+Initial frame = 946
+
+Thing 107 (Hanging Arms Out 2)
+Initial frame = 946
+
+Thing 108 (Hanging Torso 2)
+Initial frame = 946
+
+Thing 109 (One-legged Body 2)
+Initial frame = 946
+
+Thing 110 (Hanging Leg 2)
+Initial frame = 946
+
+Thing 111 (Swaying Body 2)
+Initial frame = 946
+
+Thing 112 (Dead Cacodemon)
+Initial frame = 946
+
+Thing 113 (Dead Marine)
+Initial frame = 946
+
+Thing 114 (Dead Trooper)
+Initial frame = 946
+
+Thing 115 (Dead Demon)
+Initial frame = 946
+
+Thing 117 (Dead Imp)
+Initial frame = 946
+
+Thing 118 (Dead Sargeant)
+Initial frame = 946
+
+Thing 119 (Guts and Bones)
+Initial frame = 946
+
+Thing 120 (Guts and Bones 2)
+Initial frame = 946
+
+Thing 121 (Skewered Heads)
+Initial frame = 946
+
+Thing 122 (Pool of Blood)
+Initial frame = 946
+
+Thing 123 (Pole with Skull)
+Initial frame = 946
+
+Thing 124 (Pile of Skulls)
+Initial frame = 946
+
+Thing 125 (Impaled Body)
+Initial frame = 946
+
+Thing 126 (Twitching Body)
+Initial frame = 946
+
+Thing 129 (Hanging Body 1)
+Initial frame = 946
+
+Thing 130 (Hanging Body 2)
+Initial frame = 946
+
+Thing 131 (Hanging Body 3)
+Initial frame = 946
+
+Thing 132 (Hanging Body 4)
+Initial frame = 946
+
+Thing 133 (Hanging Body 5)
+Initial frame = 946
+
+Thing 134 (Hanging Body 6)
+Initial frame = 946
+
+Thing 135 (Pool Of Blood 1)
+Initial frame = 946
+
+Thing 136 (Pool Of Blood 2)
+Initial frame = 946
+
+Thing 137 (Brain)
+Initial frame = 946
+
+Thing 140 (Helper Dog)
+Death frame = 281
+Exploding frame = 0
+Bits = 4718598
+
+[PARS]
+# Par times. The BEX format requires these to be specified in number
+# of seconds, but for convenience we include the min:sec value in a
+# comment. Comment also indicates when the run was done - ideally
+# this should be re-done for every new release. Times are rounded
+# to nearest half-minute.
+par  1   60  # 01:00  - Catoptromancy for v0.8 - 2013/12
+par  2  240  # 04:00  - Catoptromancy for v0.8 - 2013/12
+par  3  390  # 06:30  - Catoptromancy for v0.8 - 2013/12
+par  4  360  # 06:00  - Catoptromancy for v0.8 - 2013/12
+par  5  420  # 07:00  - Catoptromancy for v0.8 - 2013/12
+par  6  360  # 06:00  - Catoptromancy for v0.8 - 2013/12
+par  7  210  # 03:30  - Catoptromancy for v0.8 - 2013/12
+par  8  570  # 09:30  - Catoptromancy for v0.8 - 2013/12
+par  9  690  # 11:30  - Catoptromancy OLD run for v0.7
+par 10   30  # 00:30  - Catoptromancy for v0.8 - 2013/12
+par 11  930  # 15:30  - Catoptromancy for v0.8 - 2013/12
+par 12 1650  # 27:30  - Catoptromancy OLD run for v0.7
+par 13 1740  # 29:00  - Catoptromancy OLD run for v0.7
+par 14  450  # 07:30  - Catoptromancy for v0.8 - 2013/12
+par 15 1200  # 20:00  - Catoptromancy OLD run for v0.7
+par 16  480  # 08:00  - Catoptromancy for v0.8 - 2013/12
+par 17  420  # 07:00  - Catoptromancy for v0.8 - 2013/12
+par 18  420  # 07:00  - Catoptromancy for v0.8 - 2013/12
+par 19  660  # 11:00  - Catoptromancy for v0.8 - 2013/12
+par 20  720  # 12:00  - Catoptromancy for v0.8 - 2013/12
+par 21  750  # 12:30  - Catoptromancy OLD run for v0.7
+par 22 1620  # 27:00  - Catoptromancy for v0.8 - 2013/12
+par 23  120  # 02:00  - Catoptromancy for v0.8 - 2013/12
+par 24  420  # 07:00  - Catoptromancy OLD run for v0.7
+par 25 1440  # 24:00  - Catoptromancy for v0.8 - 2013/12
+par 26  690  # 11:30  - Catoptromancy for v0.8 - 2013/12
+par 27 2910  # 48:30  - Catoptromancy OLD run for v0.7
+par 28 1350  # 22:30  - Catoptromancy OLD run for v0.7
+par 29  600  # 10:00  - Catoptromancy OLD run for v0.7
+par 30  510  # 08:30  - Catoptromancy for v0.8 - 2013/12
+par 31  450  # 07:30  - Catoptromancy for v0.8 - 2013/12
+par 32    0  # 00:00  - Catoptromancy OLD run for v0.7
+
+[STRINGS]
+GOTARMOR = picked up a light armor vest.
+GOTMEGA = picked up a heavy armor vest.
+GOTHTHBONUS = got a 1% health bonus.
+GOTARMBONUS = got a 1% armor bonus.
+GOTSTIM = picked up a small health pack.
+GOTMEDINEED = found a large health pack, just in time!
+GOTMEDIKIT = picked up a large health pack.
+GOTSUPER = you got the overdrive sphere!
+GOTBLUECARD = picked up a blue passcard.
+GOTYELWCARD = picked up a yellow passcard.
+GOTREDCARD = picked up a red passcard.
+GOTBLUESKUL = picked up a blue skeleton key.
+GOTYELWSKUL = picked up a yellow skeleton key.
+GOTREDSKULL = picked up a red skeleton key.
+GOTINVUL = temporary invulnerability!
+GOTBERSERK = you got the steroid pack!
+GOTINVIS = you got the stealth sphere!
+GOTSUIT = picked up a hazard suit.
+GOTMAP = got the tactical survey map.
+GOTVISOR = got the night vision goggles.
+GOTMSPHERE = you got the ultra-overdrive sphere!
+GOTCLIP = picked up an ammo clip.
+GOTCLIPBOX = picked up a box of ammo.
+GOTROCKET = picked up a missile.
+GOTROCKBOX = picked up a crate of missiles.
+GOTCELL = picked up a small energy recharge.
+GOTCELLBOX = picked up a large energy recharge.
+GOTSHELLS = picked up some shotgun shells.
+GOTSHELLBOX = picked up a box of shotgun shells.
+GOTBACKPACK = second backpack!
+GOTBFG9000 = the SKAG 1337 ... time to kick some butt!
+GOTCHAINGUN = you got the mini-gun!
+GOTCHAINSAW = you got the angle grinder!
+GOTLAUNCHER = you got the missile launcher!
+GOTPLASMA = you got the polaric energy cannon!
+GOTSHOTGUN = you got the pump-action shotgun!
+GOTSHOTGUN2 = you got the double-barrelled shotgun!
+PD_BLUEO = this object requires a blue key.
+PD_REDO = this object requires a red key.
+PD_YELLOWO = this object requires a yellow key.
+PD_BLUEK = this door requires a blue key.
+PD_REDK = this door requires a red key.
+PD_YELLOWK = this door requires a yellow key.
+PD_BLUEC = this door requires the blue passcard.
+PD_REDC = this door requires the red passcard.
+PD_YELLOWC = this door requires the yellow passcard.
+PD_BLUES = this door requires the blue skeleton key.
+PD_REDS = this door requires the red skeleton key.
+PD_YELLOWS = this door requires the yellow skeleton key.
+PD_ANY = this door requires any key.
+PD_ALL3 = this door requires all three keys.
+PD_ALL6 = this door requires all six keys and passcards!
+HUSTR_E1M1 = E1M1: Starport
+HUSTR_E1M2 = E1M2: Communications Center
+HUSTR_E1M3 = E1M3: Waste Disposal
+HUSTR_E1M4 = E1M4: Supply Depot
+HUSTR_E1M5 = E1M5: Control Center
+HUSTR_E1M6 = E1M6: Training Center
+HUSTR_E1M7 = E1M7: Research Labs
+HUSTR_E1M8 = E1M8: Quarry
+HUSTR_E1M9 = E1M9: Armory
+HUSTR_E2M1 = E2M1: Ruins
+HUSTR_E2M2 = E2M2: Power Plant
+HUSTR_E2M3 = E2M3
+HUSTR_E2M4 = E2M4: Sample Holding Center
+HUSTR_E2M5 = E2M5: Fortress 31
+HUSTR_E2M6 = E2M6
+HUSTR_E2M7 = E2M7
+HUSTR_E2M8 = E2M8: Containment Center
+HUSTR_E2M9 = E2M9
+HUSTR_E3M1 = E3M1: Land of the Lost
+HUSTR_E3M2 = E3M2: Infernal Caverns
+HUSTR_E3M3 = E3M3
+HUSTR_E3M4 = E3M4
+HUSTR_E3M5 = E3M5
+HUSTR_E3M6 = E3M6: Igneous Intrusion
+HUSTR_E3M7 = E3M7
+HUSTR_E3M8 = E3M8: The Lair
+HUSTR_E3M9 = E3M9
+HUSTR_E4M1 = E4M1: Maintenance Area
+HUSTR_E4M2 = E4M2: Research Complex
+HUSTR_E4M3 = E4M3: Central Computing
+HUSTR_E4M4 = E4M4: Hydroponic Facility
+HUSTR_E4M5 = E4M5: Engineering Station
+HUSTR_E4M6 = E4M6: Command Center
+HUSTR_E4M7 = E4M7: Waste Treatment
+HUSTR_E4M8 = E4M8: Launch Bay
+HUSTR_E4M9 = E4M9: Operations
+CC_ZOMBIE = zombie
+CC_SHOTGUN = shotgun zombie
+CC_HEAVY = mini-gun zombie
+CC_IMP = footsoldier
+CC_DEMON = slither-beast
+CC_LOST = skull flare
+CC_CACO = orb monster
+CC_HELL = pain bringer
+CC_BARON = pain lord
+CC_ARACH = small technospider
+CC_PAIN = globe fiend
+CC_REVEN = undead servant
+CC_MANCU = hellslug
+CC_ARCH = flamebringer
+CC_SPIDER = large technospider
+CC_CYBER = mechabomination
+CC_HERO = savior of us all
+HUSTR_1 = MAP01
+HUSTR_2 = MAP02
+HUSTR_3 = MAP03
+HUSTR_4 = MAP04
+HUSTR_5 = MAP05
+HUSTR_6 = MAP06
+HUSTR_7 = MAP07
+HUSTR_8 = MAP08
+HUSTR_9 = MAP09: Mine HM09
+HUSTR_10 = MAP10
+HUSTR_11 = MAP11
+HUSTR_12 = MAP12
+HUSTR_13 = MAP13: Return to Earth
+HUSTR_14 = MAP14
+HUSTR_15 = MAP15
+HUSTR_16 = MAP16
+HUSTR_17 = MAP17
+HUSTR_18 = MAP18
+HUSTR_19 = MAP19: Castle
+HUSTR_20 = MAP20
+HUSTR_21 = MAP21
+HUSTR_22 = MAP22
+HUSTR_23 = MAP23
+HUSTR_24 = MAP24
+HUSTR_25 = MAP25
+HUSTR_26 = MAP26
+HUSTR_27 = MAP27
+HUSTR_28 = MAP28
+HUSTR_29 = MAP29
+HUSTR_30 = MAP30
+HUSTR_31 = MAP31
+HUSTR_32 = MAP32
+PHUSTR_1 = MAP01
+PHUSTR_2 = MAP02
+PHUSTR_3 = MAP03
+PHUSTR_4 = MAP04
+PHUSTR_5 = MAP05
+PHUSTR_6 = MAP06
+PHUSTR_7 = MAP07
+PHUSTR_8 = MAP08
+PHUSTR_9 = MAP09
+PHUSTR_10 = MAP10
+PHUSTR_11 = MAP11
+PHUSTR_12 = MAP12
+PHUSTR_13 = MAP13
+PHUSTR_14 = MAP14
+PHUSTR_15 = MAP15
+PHUSTR_16 = MAP16
+PHUSTR_17 = MAP17
+PHUSTR_18 = MAP18
+PHUSTR_19 = MAP19
+PHUSTR_20 = MAP20
+PHUSTR_21 = MAP21
+PHUSTR_22 = MAP22
+PHUSTR_23 = MAP23
+PHUSTR_24 = MAP24
+PHUSTR_25 = MAP25
+PHUSTR_26 = MAP26
+PHUSTR_27 = MAP27
+PHUSTR_28 = MAP28
+PHUSTR_29 = MAP29
+PHUSTR_30 = MAP30
+PHUSTR_31 = MAP31
+PHUSTR_32 = MAP32
+THUSTR_1 = MAP01
+THUSTR_2 = MAP02
+THUSTR_3 = MAP03
+THUSTR_4 = MAP04
+THUSTR_5 = MAP05
+THUSTR_6 = MAP06
+THUSTR_7 = MAP07
+THUSTR_8 = MAP08
+THUSTR_9 = MAP09
+THUSTR_10 = MAP10
+THUSTR_11 = MAP11
+THUSTR_12 = MAP12
+THUSTR_13 = MAP13
+THUSTR_14 = MAP14
+THUSTR_15 = MAP15
+THUSTR_16 = MAP16
+THUSTR_17 = MAP17
+THUSTR_18 = MAP18
+THUSTR_19 = MAP19
+THUSTR_20 = MAP20
+THUSTR_21 = MAP21
+THUSTR_22 = MAP22
+THUSTR_23 = MAP23
+THUSTR_24 = MAP24
+THUSTR_25 = MAP25
+THUSTR_26 = MAP26
+THUSTR_27 = MAP27
+THUSTR_28 = MAP28
+THUSTR_29 = MAP29
+THUSTR_30 = MAP30
+THUSTR_31 = MAP31
+THUSTR_32 = MAP32
+HUSTR_PLRGREEN = g:
+HUSTR_PLRINDIGO = i:
+HUSTR_PLRBROWN = b:
+HUSTR_PLRRED = r:
+AMSTR_FOLLOWON = map following player
+AMSTR_FOLLOWOFF = map no longer following player
+AMSTR_GRIDON = map grid on
+AMSTR_GRIDOFF = map grid off
+AMSTR_MARKEDSPOT = added map bookmark
+AMSTR_MARKSCLEARED = all map bookmarks cleared.
+STSTR_MUS = music changed
+STSTR_NOMUS = unknown music track?
+STSTR_DQDON = god mode on
+STSTR_DQDOFF = god mode off
+STSTR_KFAADDED = keys, weapons and ammo added.
+STSTR_FAADDED = weapons and ammo added.
+STSTR_NCON = noclip on
+STSTR_NCOFF = noclip off
+STSTR_CHOPPERS = vroom!
+STSTR_BEHOLD = v=invuln, s=steroids, i=invis, r=hazard, a=map, l=night vision
+NIGHTMARE = this is the highest skill level.\nnot recommended unless you're experienced.\n\n(press y to confirm)
+#HUSTR_CHATMACRO1
+#HUSTR_CHATMACRO2
+#HUSTR_CHATMACRO3
+#HUSTR_CHATMACRO4
+#HUSTR_CHATMACRO5
+#HUSTR_CHATMACRO6
+#HUSTR_CHATMACRO7
+#HUSTR_CHATMACRO8
+#HUSTR_CHATMACRO9
+#HUSTR_CHATMACRO0
+#HUSTR_TALKTOSELF1
+#HUSTR_TALKTOSELF2
+#HUSTR_TALKTOSELF3
+#HUSTR_TALKTOSELF4
+#HUSTR_TALKTOSELF5
+#HUSTR_MESSAGESENT
+# Temporary end-of-episode texts. Please replace them.
+E1TEXT = You've completed Freedoom episode 1!\nBut your work isn't done yet.\n\nThere are more monsters still to kill.\n\nPlay Freedoom episode 2 to continue\nthe madness.
+E2TEXT = You've defeated Freedoom episode 2!\nHordes of monsters lie dead by your\nhand. But there are still more waiting.\nYour work is not yet done.\n\nOnward to episode 3 - if you dare!
+E3TEXT = Hundreds of monsters couldn't stop you.\nSo much for Freedoom episode 3.\nBut there's a whole other game to play!\n\nDownload Freedoom 2 and continue the\ncarnage!\n\n-or play Freedoom episode 4:\nDouble Impact!
+E4TEXT = Despite having an entire army against\nyou, you manage to reach the\nspacecraft by the skin of your teeth.\n"Can I go back to fixing things yet?"\nYou mutter to yourself and let out an\nexasperated sigh.\nYou initiate navigation systems and\npower-up thrusters, time to get the\nhell outta dodge. Destination: anywhere\nbut this suck-hole. As you lift off to the\nsafety of outerspace, you wonder if you're\ngoing to be paid overtime.
+# After MAP06, before MAP07:
+C1TEXT = You've found your way to the complex's\nouter storage warehouse. A whole\nsquadron of the elite guard were\ndispatched here, but after 2 hours they\nwere never heard from again. What can have\nhappened to them? You feel a knot in\nyour stomach and try to put the question\nout of your mind.\n\nGuess you'll find out soon.
+# After MAP11, before MAP12:
+C2TEXT = You make your way to the outskirts of\nthe city. This was once the planet's\nmost important economic powerhouse,\nand headquarters of the AGM conglomerate.\n\nNow it's a wreck.\n\nEvery entrance has been heavily fortified,\nbut you find one small forgotten doorway,\nit must be an industrial loading bay\nof some kind. Guess this is your way in.
+# After MAP20, before MAP21:
+C3TEXT = You never thought you'd see a literal\nriver of blood. These bastards have a\nlot to answer for. But it just makes you\nmore determined to make them pay for\nwhat they've done.\n\nStepping through the portal you pause to\ncatch your breath, but there's no time\nto waste.
+# After MAP30 (endgame text):
+C4TEXT = Explosions erupt from all around the\nskull. You've done it. It's finally\nover. These monsters won't bother you\nany more.\n\nThe saying goes, live free or\ndie trying. Guess that doesn't always\nmean the latter.
+# Before MAP31 (secret level #1):
+C5TEXT = You step onto the teleport and after a\nstrange flash you find yourself in an\nold castle. What is this place? Before\nyou can wonder further, you hear\nnoises coming towards you.
+# Before MAP32 (secret level #2):
+C6TEXT = As you stumble through the door, you\nget the feeling that you might have\ngone the wrong way. This place looks\nweird, the walls look like they're...\nfrom some other time?\n\nSomething seems fishy here.
+#P1TEXT
+#P2TEXT
+#P3TEXT
+#P4TEXT
+#P5TEXT
+#P6TEXT
+#T1TEXT
+#T2TEXT
+#T3TEXT
+#T4TEXT
+#T5TEXT
+#T6TEXT
+#BGFLATE1
+#BGFLATE2
+#BGFLATE3
+#BGFLATE4
+#BGFLAT06
+#BGFLAT11
+#BGFLAT20
+#BGFLAT30
+#BGFLAT15
+#BGFLAT31
+#BGCASTCALL
+#STARTUP1
+#STARTUP2
+#STARTUP3
+#STARTUP4
+#STARTUP5
+#SAVEGAMENAME
+
