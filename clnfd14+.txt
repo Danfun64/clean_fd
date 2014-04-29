@@ -3,9 +3,9 @@ Archive Maintainer      : delete clnfd1B+.zip and clnfd1B+.txt, as they
                           refer to older versions of the file.
 Primary purpose         : No levels included
 ===========================================================================
-Title                   : Freedoom Clean 1.3
+Title                   : Freedoom Clean 1.4
 Filename                : clean-fd.wad
-Release date            : 4/28/14
+Release date            : 4/29/14
 Author                  : Danfun64
 Email Address           : Danfun360@gmail.com
 
@@ -78,7 +78,7 @@ Base                    : Modified
 Build Time              : Several Hours (to make the resources)
 Editor(s) used          : SLADE3, Paint.NET
 Known Bugs              : I am having trouble removing the inverted
-			  cross on E2M1.
+			  cross on (the old) E2M1.
 May Not Run With...     : an IWAD made by ID software.
 
 
