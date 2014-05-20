@@ -3,9 +3,9 @@ Archive Maintainer      : delete clnfd1B+.zip and clnfd1B+.txt, as they
                           refer to older versions of the file.
 Primary purpose         : No levels included
 ===========================================================================
-Title                   : Freedoom Clean 1.4
+Title                   : Freedoom Clean 1.5
 Filename                : clean-fd.wad
-Release date            : 4/29/14
+Release date            : 5/19/14
 Author                  : Danfun64
 Email Address           : Danfun360@gmail.com
 
@@ -40,6 +40,9 @@ Description             : This is meant to remove blood, gore, and demonic
 						  NOTE: The new enemies have been removed, they just
 						  don't mix with the regular game. They have also been
 						  causing problems...
+						  
+						  NOTE: mbfcomp.deh has been restored in order to fix
+						  a bug in boom.
 
 Additional Credits to   : Linguica, for the basic idea for the dehacked
                           file.
