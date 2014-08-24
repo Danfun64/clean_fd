@@ -3,9 +3,9 @@ Archive Maintainer      : delete clnfd1B+.zip and clnfd1B+.txt, as they
                           refer to older versions of the file.
 Primary purpose         : No levels included
 ===========================================================================
-Title                   : Freedoom Clean 1.5
+Title                   : Freedoom Clean 1.95 Beta
 Filename                : clean-fd.wad
-Release date            : 5/19/14
+Release date            : 8/24/14
 Author                  : Danfun64
 Email Address           : Danfun360@gmail.com
 
@@ -18,31 +18,19 @@ Description             : This is meant to remove blood, gore, and demonic
                           I give permission for this file to be included or
                           bundled in/with freedoom and license it under the
                           3-clause BSD license. The modified levels also use
-						  the FreeDoom varient of said license.
+			  the FreeDoom varient of said license.
 						  
-						  In order to avoid mixing resources, Ultimate Freedoom
-						  and Freedoom content have been split. In addition,
-						  pentagrams on the levels themselves have been
-						  removed. Note that those levels will no longer
-						  be compatible with demos recorded for them from
-						  the original game.
+			  In order to avoid mixing resources, Ultimate Freedoom
+			  and Freedoom content have been split. In addition,
+			  pentagrams on the levels themselves have been
+			  removed. Note that those levels will no longer
+			  be compatible with demos recorded for them from
+			  the original game.
+
+			  Note: ALmost everything has been changed in this
+			  release. 2.0 should be coming really soon to
+			  fix most remaining bugs
 						  
-						  NOTE FOR THOSE USING 1.1A, delete mbfcomp.deh, as
-						  it's contents have been included in this patch
-						  
-						  NOTE: The new enemies have been recentered.
-						  
-						  NOTE: I decided to make a brand new release
-						  which contains every change I have made thus far,
-						  which should fix a few bugs. Sorry for not releasing
-						  this sooner.
-						  
-						  NOTE: The new enemies have been removed, they just
-						  don't mix with the regular game. They have also been
-						  causing problems...
-						  
-						  NOTE: mbfcomp.deh has been restored in order to fix
-						  a bug in boom.
 
 Additional Credits to   : Linguica, for the basic idea for the dehacked
                           file.
@@ -51,6 +39,8 @@ Additional Credits to   : Linguica, for the basic idea for the dehacked
                           allowing it's resources to be used.
                           Simon Judd (SlayeR), for creating SLADE.
 						  dotPDN LLC, for Paint.NET
+			  Foxpup, for taking away a lot of headache in my
+			  dehacked files.
 						  
 ===========================================================================
 * What is included *

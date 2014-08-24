@@ -5,89 +5,8 @@ Patch File for DeHackEd v3.0
 Doom version = 21
 Patch format = 6
 
-Thing 1 (Player)
-Bits = 34081798
-
-Thing 2 (Trooper)
-Death frame = 281
-Exploding frame = 0
-Bits = 4718598
-
-Thing 3 (Sargeant)
-Death frame = 281
-Exploding frame = 0
-Bits = 4718598
-
-Thing 4 (Archvile)
-Death frame = 281
-Bits = 4718598
-
-Thing 6 (Revenant)
-Death frame = 281
-Bits = 4718598
-
-Thing 9 (Mancubus)
-Death frame = 281
-Bits = 4718598
-
-Thing 11 (Chaingun Sargeant)
-Death frame = 281
-Exploding frame = 0
-Bits = 4718598
-
-Thing 12 (Imp)
-Death frame = 281
-Exploding frame = 0
-Bits = 4718598
-
-Thing 13 (Demon)
-Death frame = 281
-Bits = 4718598
-
-Thing 14 (Spectre)
-Death frame = 281
-Bits = 4980742
-
-Thing 15 (Cacodemon)
-Death frame = 281
-Bits = 4735494
-
-Thing 16 (Baron of Hell)
-Bits = 4718598
-
-Thing 18 (Hell Knight)
-Death frame = 281
-Bits = 4718598
-
-Thing 19 (Lost Soul)
-Bits = 541190
-
-Thing 20 (Spiderdemon)
-Bits = 4718598
-
-Thing 21 (Arachnotron)
-Death frame = 281
-Bits = 4718598
-
-Thing 22 (Cyberdemon)
-Bits = 4718598
-
-Thing 23 (Pain Elemental)
-Bits = 4735494
-
-Thing 24 (SS Nazi)
-Death frame = 281
-Exploding frame = 0
-Bits = 4718598
-
-Thing 25 (Commander Keen)
-Bits = 4719366
-
-Thing 26 (Big Brain)
-Bits = 524294
-
 Thing 39 (Blood Splat)
-Initial frame = 946
+Bits = 24
 
 Thing 102 (Swaying Body)
 Initial frame = 946
@@ -188,15 +107,14 @@ Initial frame = 946
 Thing 137 (Brain)
 Initial frame = 946
 
+[STRINGS]
 GOTBFG9000 = the SKAG 1337 ... time to kick some butt!
-
 # Temporary end-of-episode texts. Please replace them.
 E4TEXT = Despite having an entire army against\nyou, you manage to reach the\nspacecraft by the skin of your teeth.\n"Can I go back to fixing things yet?"\nYou mutter to yourself and let out an\nexasperated sigh.\nYou initiate navigation systems and\npower-up thrusters, time to get \noutta dodge. Destination: anywhere\nbut this hell-hole. As you lift off to the\nsafety of outerspace, you wonder if you're\ngoing to be paid overtime.
 # After MAP20, before MAP21:
-C3TEXT = You never thought you'd see a literal\nriver of lava. These jerks have a\nlot to answer for. But it just makes you\nmore determined to make them pay for\nwhat they've done.\n\nStepping through the portal you pause to\ncatch your breath, but there's no time\nto waste.
+C3TEXT = You never thought you'd see a literal\nriver of blood. These jerks have a\nlot to answer for. But it just makes you\nmore determined to make them pay for\nwhat they've done.\n\nStepping through the portal you pause to\ncatch your breath, but there's no time\nto waste.
 # After MAP30 (endgame text):
 C4TEXT = Explosions erupt from all around the\n"control panel". You've done it. It's finally\nover. These monsters won't bother you\nany more.\n\nThe saying goes, live free or\ndie trying. Guess that doesn't always\nmean the latter.
-
 OB_MPBFG_BOOM=%o had %p butt kicked by %k's SKAG!
 OB_MPBFG_MBF=%o had %p butt kicked by %k's SKAG!
 
