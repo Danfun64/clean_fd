@@ -5,7 +5,7 @@ Primary purpose         : No levels included
 ===========================================================================
 Title                   : Freedoom Clean 1.97 Beta
 Filename                : clean-fd.wad
-Release date            : 09/05/14
+Release date            : 09/08/14
 Author                  : Danfun64
 Email Address           : Danfun360@gmail.com
 
