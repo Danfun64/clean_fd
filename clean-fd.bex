@@ -1,9 +1,39 @@
 Patch File for DeHackEd v3.0
-# Created with WhackEd2 0.60 build 214
-
-# General version information
-Doom version = 21
+Doom version = 19
 Patch format = 6
+
+# Copyright (c) Contributors to the Freedoom project. All rights reserved.
+# Copyright (c) 2014, Danfun64
+#
+# Redistribution and use in source and binary forms, with or without
+# modification, are permitted provided that the following conditions are
+# met:
+#
+#   * Redistributions of source code must retain the above copyright
+#     notice, this list of conditions and the following disclaimer.
+#   * Redistributions in binary form must reproduce the above copyright
+#     notice, this list of conditions and the following disclaimer in the
+#     documentation and/or other materials provided with the distribution.
+#   * Neither the name of the freedoom project nor the names of its
+#     contributors may be used to endorse or promote products derived from
+#     this software without specific prior written permission.
+#
+# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS
+# IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
+# TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+# PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER
+# OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+# EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+# PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+# PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+# LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+# NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+# SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+# This is a magic comment recognized by Chocolate Doom, so that the
+# BEX [STRINGS] section below will be parsed:
+#
+#   *allow-extended-strings*
 
 Thing 39 (Blood Splat)
 Bits = 24
@@ -108,13 +138,39 @@ Thing 137 (Brain)
 Initial frame = 946
 
 [STRINGS]
-GOTBFG9000 = the SKAG 1337 ... time to kick some butt!
 # Temporary end-of-episode texts. Please replace them.
-E4TEXT = Despite having an entire army against\nyou, you manage to reach the\nspacecraft by the skin of your teeth.\n"Can I go back to fixing things yet?"\nYou mutter to yourself and let out an\nexasperated sigh.\nYou initiate navigation systems and\npower-up thrusters, time to get \noutta dodge. Destination: anywhere\nbut this hell-hole. As you lift off to the\nsafety of outerspace, you wonder if you're\ngoing to be paid overtime.
+E4TEXT = Despite having an entire army against\n\
+         you, you manage to reach the\n\
+         spacecraft by the skin of your teeth.\n\n\
+         "Can I go back to fixing things yet?"\n\
+         You mutter to yourself and let out an\n\
+         exasperated sigh.\n\
+         You initiate navigation systems and\n\
+         power-up thrusters, time to get \n\
+         outta dodge. Destination: anywhere\n\
+         but this hell-hole. As you lift off to the\n\
+         safety of outerspace, you wonder if you're\n\
+         going to be paid overtime.
 # After MAP20, before MAP21:
-C3TEXT = You never thought you'd see a literal\nriver of blood. These jerks have a\nlot to answer for. But it just makes you\nmore determined to make them pay for\nwhat they've done.\n\nStepping through the portal you pause to\ncatch your breath, but there's no time\nto waste.
+C3TEXT = You never thought you'd see a \n\
+         river of magma. These jerks have a\n\
+         lot to answer for. But it just makes you\n\
+         more determined to make them pay for\n\
+         what they've done.\n\n\
+         Stepping through the portal you pause to\n\
+         catch your breath, but there's no time\n\
+         to waste.
 # After MAP30 (endgame text):
-C4TEXT = Explosions erupt from all around the\n"control panel". You've done it. It's finally\nover. These monsters won't bother you\nany more.\n\nThe saying goes, live free or\ndie trying. Guess that doesn't always\nmean the latter.
-OB_MPBFG_BOOM=%o had %p butt kicked by %k's SKAG!
-OB_MPBFG_MBF=%o had %p butt kicked by %k's SKAG!
+C4TEXT = Explosions erupt from all around the\n\
+         "control panel". You've done it. It's finally\n\
+         over. These monsters won't bother you\n\
+         any more.\n\n\
+         The saying goes, live free or\n\
+         die trying. Guess that doesn't always\n\
+         mean the latter.
+# Weapons
+GOTBFG9000 = the LAG 1337 ... time to kick some butt!
+OB_MPBFG_BOOM=%o had %p butt kicked by %k's LAG!
+OB_MPBFG_SPLASH=%o couldn't hide from %k's LAG.
+OB_MPBFG_MBF=%o had %p butt kicked by %k's LAG!
 

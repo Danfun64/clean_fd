@@ -3,9 +3,9 @@ Archive Maintainer      : delete clnfd1B+.zip and clnfd1B+.txt, as they
                           refer to older versions of the file.
 Primary purpose         : No levels included
 ===========================================================================
-Title                   : Freedoom Clean 1.97 Beta
+Title                   : Freedoom Clean 2A Beta
 Filename                : clean-fd.wad
-Release date            : 09/08/14
+Release date            : 09/22/14
 Author                  : Danfun64
 Email Address           : Danfun360@gmail.com
 
@@ -26,10 +26,6 @@ Description             : This is meant to remove blood, gore, and demonic
 			  removed. Note that those levels will no longer
 			  be compatible with demos recorded for them from
 			  the original game.
-
-			  Note: ALmost everything has been changed in this
-			  release. 2.0 should be coming really soon to
-			  fix most remaining bugs
 						  
 
 Additional Credits to   : Linguica, for the basic idea for the dehacked

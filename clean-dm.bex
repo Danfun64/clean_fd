@@ -1,9 +1,39 @@
 Patch File for DeHackEd v3.0
-# Created with WhackEd2 0.60 build 214
-
-# General version information
-Doom version = 21
+Doom version = 19
 Patch format = 6
+
+# Copyright (c) Contributors to the Freedoom project. All rights reserved.
+# Copyright (c) 2014, Danfun64
+#
+# Redistribution and use in source and binary forms, with or without
+# modification, are permitted provided that the following conditions are
+# met:
+#
+#   * Redistributions of source code must retain the above copyright
+#     notice, this list of conditions and the following disclaimer.
+#   * Redistributions in binary form must reproduce the above copyright
+#     notice, this list of conditions and the following disclaimer in the
+#     documentation and/or other materials provided with the distribution.
+#   * Neither the name of the freedoom project nor the names of its
+#     contributors may be used to endorse or promote products derived from
+#     this software without specific prior written permission.
+#
+# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS
+# IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED
+# TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+# PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER
+# OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+# EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+# PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+# PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+# LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+# NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+# SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+# This is a magic comment recognized by Chocolate Doom, so that the
+# BEX [STRINGS] section below will be parsed:
+#
+#   *allow-extended-strings*
 
 Thing 39 (Blood Splat)
 Bits = 24
@@ -108,7 +138,9 @@ Thing 137 (Brain)
 Initial frame = 946
 
 [STRINGS]
-GOTBFG9000 = the SKAG 1337 ... time to kick some butt!
-OB_MPBFG_BOOM=%o had %p butt kicked by %k's SKAG!
-OB_MPBFG_MBF=%o had %p butt kicked by %k's SKAG!
+# Weapons
+GOTBFG9000 = the LAG 1337 ... time to kick some butt!
+OB_MPBFG_BOOM=%o had %p butt kicked by %k's LAG!
+OB_MPBFG_SPLASH=%o couldn't hide from %k's LAG.
+OB_MPBFG_MBF=%o had %p butt kicked by %k's LAG!
 
