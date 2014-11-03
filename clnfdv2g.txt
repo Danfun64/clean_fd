@@ -3,9 +3,9 @@ Archive Maintainer      : delete clnfd1B+.zip and clnfd1B+.txt, as they
                           refer to older versions of the file.
 Primary purpose         : No levels included
 ===========================================================================
-Title                   : Freedoom Clean 2E
+Title                   : Freedoom Clean 2G
 Filename                : clean-fd.wad
-Release date            : 08/03/14
+Release date            : 11/03/14
 Author                  : Danfun64
 Email Address           : Danfun360@gmail.com
 

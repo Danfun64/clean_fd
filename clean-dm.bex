@@ -39,103 +39,103 @@ Thing 39 (Blood Splat)
 Bits = 24
 
 Thing 102 (Swaying Body)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 103 (Hanging Arms Out)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 104 (One-legged Body)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 105 (Hanging Torso)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 106 (Hanging Leg)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 107 (Hanging Arms Out 2)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 108 (Hanging Torso 2)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 109 (One-legged Body 2)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 110 (Hanging Leg 2)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 111 (Swaying Body 2)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 112 (Dead Cacodemon)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 113 (Dead Marine)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 114 (Dead Trooper)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 115 (Dead Demon)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 117 (Dead Imp)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 118 (Dead Sargeant)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 119 (Guts and Bones)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 120 (Guts and Bones 2)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 121 (Skewered Heads)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 122 (Pool of Blood)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 123 (Pole with Skull)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 124 (Pile of Skulls)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 125 (Impaled Body)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 126 (Twitching Body)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 129 (Hanging Body 1)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 130 (Hanging Body 2)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 131 (Hanging Body 3)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 132 (Hanging Body 4)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 133 (Hanging Body 5)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 134 (Hanging Body 6)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 135 (Pool Of Blood 1)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 136 (Pool Of Blood 2)
-Initial frame = 946
+#Initial frame = 946
 
 Thing 137 (Brain)
-Initial frame = 946
+#Initial frame = 946
 
 [STRINGS]
 # Weapons
